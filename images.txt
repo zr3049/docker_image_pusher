@@ -5,3 +5,8 @@ whyour/qinglong:latest
 whyour/qinglong:2.10
 stilleshan/frpc
 stilleshan/frps
+whyour/qinglong:2.17.3
+linuxserver/firefox:version-116.0-r0
+jeessy/ddns-go:v6.5.0
+snowdreamtech/frpc:0.58.0
+hanhongyong/ms365-e5-renew-x:latest
