@@ -10,4 +10,4 @@ jeessy/ddns-go:v6.5.0
 snowdreamtech/frpc:0.58.0
 hanhongyong/ms365-e5-renew-x:latest
 whyour/qinglong:debian
-whyour/qinglongarm64v8:latest
+whyour/qinglongarm64:latest
