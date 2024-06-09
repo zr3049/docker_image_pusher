@@ -3,3 +3,4 @@ kasmweb/nginx:1.25.3
 python:alpine3.19
 whyour/qinglong:latest
 whyour/qinglong:2.10
+stilleshan/frpc
